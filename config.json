@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggereync",
+        "uuid": 25146702,
+        "checksum": "qqu1ya"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
